@@ -1,0 +1,3 @@
+/home/tecs/Algoritmos-e-Estrutura-de-Dados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tecs/Algoritmos-e-Estrutura-de-Dados/cmake-build-debug/CMakeFiles/Algoritmos.dir
+/home/tecs/Algoritmos-e-Estrutura-de-Dados/cmake-build-debug/CMakeFiles/edit_cache.dir

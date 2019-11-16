@@ -50,7 +50,6 @@ bool DLK_visiting(unordered_map<string, list<string>> &map, unordered_map<string
 int main() {
     string comando;
     unordered_map<string, list<string>> so;
-
     cin >> comando;
     while (comando != "END") {
         string processo;
