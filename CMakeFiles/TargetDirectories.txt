@@ -1,3 +1,0 @@
-/home/tecs/Desktop/Maracatronics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tecs/Desktop/Maracatronics/cmake-build-debug/CMakeFiles/Maracatronics.dir
-/home/tecs/Desktop/Maracatronics/cmake-build-debug/CMakeFiles/edit_cache.dir
